@@ -1,3 +1,4 @@
 # Antikythera
-This program shows positions
-of the sun, moon, and some planets.
+This program shows the positions of the Sun, Moon and some planets.
+# Dependencies
+pip install tkcalendar
